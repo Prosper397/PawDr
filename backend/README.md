@@ -1,1 +1,0 @@
-# PawDr - DEV Weekend Challenge
